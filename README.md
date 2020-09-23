@@ -1,4 +1,4 @@
- #  ReactiveSpringWithMongoDB
+#  ReactiveSpringWithMongoDB
 
 - This repository has the code to learn the reactive spring with mongo DB .
 
@@ -14,8 +14,6 @@
 
 - You need to install the **Mongo DB** in your local for the complete application to work.
 
-
-```
 
 #### Install Mongo DB in Windows
 
